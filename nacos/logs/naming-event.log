@@ -1,0 +1,54 @@
+2019-08-20 07:51:47,311 INFO DEFAULT_GROUP@@provider-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.21.5.65:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-08-20 07:51:47,317 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@provider-service, ips: 172.21.5.65:8080_true,
+
+2019-08-20 07:52:09,604 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@provider-service, ips: 172.21.5.65:8080_true,
+
+2019-08-20 07:59:50,956 INFO DEFAULT_GROUP@@consumer-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.21.5.65:8070:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-08-20 07:59:50,956 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumer-service, ips: 172.21.5.65:8070_true,
+
+2019-08-20 08:08:21,051 INFO {POS} {IP-DISABLED} valid: 172.21.5.65:8070@DEFAULT@DEFAULT_GROUP@@consumer-service, region: unknown, msg: client timeout after 15000, last beat: 1566259685338
+
+2019-08-20 08:08:34,129 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@provider-service, ips: 172.21.5.65:8080_true,
+
+2019-08-20 08:08:36,066 INFO DEFAULT_GROUP@@consumer-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.21.5.65:8070:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-08-20 08:08:36,066 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumer-service, ips: 
+
+2019-08-20 08:08:37,028 INFO DEFAULT_GROUP@@consumer-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.21.5.65:8070:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-08-20 08:08:37,028 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumer-service, ips: 172.21.5.65:8070_true,
+
+2019-08-20 09:06:21,702 INFO {POS} {IP-DISABLED} valid: 172.21.5.65:8070@DEFAULT@DEFAULT_GROUP@@consumer-service, region: unknown, msg: client timeout after 15000, last beat: 1566263162084
+
+2019-08-20 09:06:23,139 INFO {POS} {IP-DISABLED} valid: 172.21.5.65:8080@DEFAULT@DEFAULT_GROUP@@provider-service, region: unknown, msg: client timeout after 15000, last beat: 1566263164035
+
+2019-08-20 09:06:36,707 INFO DEFAULT_GROUP@@consumer-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.21.5.65:8070:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-08-20 09:06:36,707 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumer-service, ips: 
+
+2019-08-20 09:06:38,146 INFO DEFAULT_GROUP@@provider-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.21.5.65:8080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-08-20 09:06:38,146 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@provider-service, ips: 
+
+2019-08-20 09:26:11,196 INFO DEFAULT_GROUP@@provider-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.21.5.65:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-08-20 09:26:11,196 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@provider-service, ips: 172.21.5.65:8080_true,
+
+2019-08-20 09:28:06,672 INFO DEFAULT_GROUP@@consumer-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.21.5.65:8070:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-08-20 09:28:06,672 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumer-service, ips: 172.21.5.65:8070_true,
+
+2019-08-20 10:48:43,176 INFO {POS} {IP-DISABLED} valid: 172.21.5.65:8070@DEFAULT@DEFAULT_GROUP@@consumer-service, region: unknown, msg: client timeout after 15000, last beat: 1566269307040
+
+2019-08-20 10:48:44,296 INFO {POS} {IP-DISABLED} valid: 172.21.5.65:8080@DEFAULT@DEFAULT_GROUP@@provider-service, region: unknown, msg: client timeout after 15000, last beat: 1566269306553
+
+2019-08-20 10:48:58,196 INFO DEFAULT_GROUP@@consumer-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.21.5.65:8070:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-08-20 10:48:58,196 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@consumer-service, ips: 
+
+2019-08-20 10:48:59,302 INFO DEFAULT_GROUP@@provider-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.21.5.65:8080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-08-20 10:48:59,302 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@provider-service, ips: 
+

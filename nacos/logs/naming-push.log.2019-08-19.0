@@ -1,0 +1,44 @@
+2019-08-19 17:05:22,988 INFO DEFAULT_GROUP@@provider-service is changed, add it to push queue.
+
+2019-08-19 17:08:45,649 INFO DEFAULT_GROUP@@provider-service is changed, add it to push queue.
+
+2019-08-19 17:08:45,650 INFO serviceName: DEFAULT_GROUP@@provider-service changed, schedule push for: 172.21.5.65:62666, agent: Nacos-Java-Client:v1.0.0, key: 172.21.5.65,62666,2751707835800
+
+2019-08-19 17:08:45,650 INFO send udp packet: 172.21.5.65,62666,2751707835800
+
+2019-08-19 17:08:45,657 INFO received ack: {"type": "push-ack", "lastRefTime":"2751707835800", "data":""} from: 172.21.5.65:, cost: 62666 ms, unacked: 7, total push: 0
+
+2019-08-19 17:10:53,031 INFO DEFAULT_GROUP@@provider-service is changed, add it to push queue.
+
+2019-08-19 17:11:08,182 INFO DEFAULT_GROUP@@provider-service is changed, add it to push queue.
+
+2019-08-19 19:11:48,490 INFO DEFAULT_GROUP@@provider-service is changed, add it to push queue.
+
+2019-08-19 19:11:48,491 INFO serviceName: DEFAULT_GROUP@@provider-service changed, schedule push for: 172.21.5.65:60184, agent: Nacos-Java-Client:v1.0.0, key: 172.21.5.65,60184,10133320187800
+
+2019-08-19 19:11:48,491 INFO send udp packet: 172.21.5.65,60184,10133320187800
+
+2019-08-19 19:11:48,496 INFO received ack: {"type": "push-ack", "lastRefTime":"10133320187800", "data":""} from: 172.21.5.65:, cost: 60184 ms, unacked: 5, total push: 0
+
+2019-08-19 19:13:09,263 INFO DEFAULT_GROUP@@consumer-service is changed, add it to push queue.
+
+2019-08-19 19:13:12,473 INFO DEFAULT_GROUP@@provider-service is changed, add it to push queue.
+
+2019-08-19 19:13:12,473 INFO serviceName: DEFAULT_GROUP@@provider-service changed, schedule push for: 172.21.5.65:58834, agent: Nacos-Java-Client:v1.0.0, key: 172.21.5.65,58834,10217302754500
+
+2019-08-19 19:13:12,474 INFO send udp packet: 172.21.5.65,58834,10217302754500
+
+2019-08-19 19:13:12,477 INFO received ack: {"type": "push-ack", "lastRefTime":"10217302754500", "data":""} from: 172.21.5.65:, cost: 58834 ms, unacked: 3, total push: 0
+
+2019-08-19 19:13:27,487 INFO DEFAULT_GROUP@@provider-service is changed, add it to push queue.
+
+2019-08-19 19:13:27,487 INFO serviceName: DEFAULT_GROUP@@provider-service changed, schedule push for: 172.21.5.65:58834, agent: Nacos-Java-Client:v1.0.0, key: 172.21.5.65,58834,10232316236100
+
+2019-08-19 19:13:27,488 INFO send udp packet: 172.21.5.65,58834,10232316236100
+
+2019-08-19 19:13:27,492 INFO received ack: {"type": "push-ack", "lastRefTime":"10232316236100", "data":""} from: 172.21.5.65:, cost: 58834 ms, unacked: 4, total push: 0
+
+2019-08-19 19:14:04,273 INFO DEFAULT_GROUP@@consumer-service is changed, add it to push queue.
+
+2019-08-19 19:14:19,286 INFO DEFAULT_GROUP@@consumer-service is changed, add it to push queue.
+
